@@ -6,6 +6,7 @@
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](https://github.com/itext/itext7/blob/master/LICENSE.md)
 [![GitHub all releases](https://img.shields.io/github/downloads/itext/itext7/total)](https://github.com/itext/itext7/releases/latest)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/itext/itext7)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fitext-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fitext-java?ref=badge_shield)
 
 iText Core/Community is a high-performance, battle-tested library that allows you to create, adapt,
 inspect and maintain PDF documents, allowing you to add PDF
@@ -207,3 +208,6 @@ Contact [Sales] for more info.
 [rupsproduct]: https://itextpdf.com/products/rups
 
 [calligraph]: https://itextpdf.com/products/pdfcalligraph
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fitext-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fitext-java?ref=badge_large)
